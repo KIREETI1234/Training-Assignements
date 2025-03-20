@@ -1,6 +1,5 @@
 # Training-Assignements
 
 
-DBMS NOTES LINK CHAT GPT
-
-https://chatgpt.com/canvas/shared/67a5a66046648191bb3028b0691bdec5
+DBMS NOTES LINK
+https://chatgpt.com/canvas/shared/67dbe49045208191873fbc55d61bde09
